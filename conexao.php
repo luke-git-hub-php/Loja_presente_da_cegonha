@@ -1,0 +1,1 @@
+<?php $conexao=mysqli_connect("localhost", "root", "","loja_presente_da_cegonha")or die(mysql_error()); ?>
